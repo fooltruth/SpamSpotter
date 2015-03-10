@@ -15,7 +15,7 @@ Compatability:
 
 Users can download the entire repository by using 'git clone' followed by the cloning URL above. Alternatively, use the following:
 
-```wget https://raw.githubusercontent.com/fooltruth/mail_compromise/master/SpamSpotter.py -O SpamSpotter.py```
+```wget https://raw.githubusercontent.com/fooltruth/SpamSpotter/master/SpamSpotter.py -O SpamSpotter.py```
 ```python SpamSpotter.py```
 
 The execute bit (chmod +x SpamSpotter.py) can be added so that the script can be executed without calling python directly.
